@@ -1,3 +1,6 @@
+---
+title: Straatmeubilair - Omgeving Upgrade
+---
 <article class="regular">
 <header>
 # Straatmeubilair

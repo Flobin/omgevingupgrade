@@ -1,3 +1,6 @@
+---
+title: Bebording - Omgeving Upgrade
+---
 <article class="regular">
 <header>
 # Bebording

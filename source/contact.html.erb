@@ -1,0 +1,29 @@
+---
+title: Contact - Omgeving Upgrade
+---
+<article class="contact">
+    <header>
+        <h1>Contact</h1>
+    </header>
+    <section>
+		<fieldset>
+			<legend>contactformulier</legend>
+			<form name="contact" class="contact" id="contact" action="" method="post">
+				<p>
+					<label for="name" id="name_label">Naam:</label><input type="text" name="name" id="name" title="name" size="30" maxlength="100" value="name" onfocus="this.value = this.value=='name'?'':this.value;" onblur="this.value = this.value==''?'name':this.value;"/><br />
+				    <label for="email" id="email_label">Email:</label><input type="text" name="email" id="email" size="30" maxlength="100" value="email" onfocus="this.value = this.value=='email'?'':this.value;" onblur="this.value = this.value==''?'email':this.value;" /><br />
+				    <label for="subject" id="subject_label">Betreft:</label><input type="text" name="subject" id="subject" size="20" maxlength="30" value="betreft" onfocus="this.value = this.value=='betreft'?'':this.value;" onblur="this.value = this.value==''?'betreft':this.value;" /><br />
+				    <label for="message" id="message_label">Bericht:</label><textarea rows="10" cols="10" name="message" id="message" value="bericht" onfocus="this.value = this.value=='bericht'?'':this.value;" onblur="this.value = this.value==''?'bericht':this.value;"></textarea><br />
+				 	<img src="http://www.google.com/recaptcha/static/images/recaptcha-example.gif" alt="" /><br />     
+					<input type="reset" name="reset" value="Reset" />
+					<input type="submit" name="submit" value="Submit" />
+				</p>
+			</form>
+		</fieldset>
+    </section>
+</article>
+<aside>
+	<p>U kan contact opnemen middels dit contactformulier. Vul alstublieft alle velden in.</p>
+	<p>U kan ook bellen: <a href="tel:0031612345678" title="bel ons" class="phone">+31 6 12345678</a></p>
+	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales urna non odio egestas tempor. Nunc vel vehicula ante.</p>
+</aside>

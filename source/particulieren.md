@@ -1,3 +1,6 @@
+---
+title: Particulieren - Omgeving Upgrade
+---
 <article class="regular">
 <header>
 # Particulieren

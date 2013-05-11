@@ -1,3 +1,6 @@
+---
+title: Horeca - Omgeving Upgrade
+---
 <article class="regular">
 <header>
 # Horeca

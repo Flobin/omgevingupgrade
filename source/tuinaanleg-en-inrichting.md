@@ -1,3 +1,6 @@
+---
+title: Tuinaanleg en -inrichting - Omgeving Upgrade
+---
 <article class="regular">
 <header>
 # Tuinaanleg en -inrichting

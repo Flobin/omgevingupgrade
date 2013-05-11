@@ -1,3 +1,6 @@
+---
+title: Bestrating - Omgeving Upgrade
+---
 <article class="regular">
 <header>
 # Bestrating

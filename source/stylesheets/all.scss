@@ -199,9 +199,13 @@ nav {
         }
       }
       li.child {
-        display: none;
+        //display: none;
       }
     }
+}
+
+.index li.child {
+  display: none!important;
 }
 
 .toggle { 
@@ -584,29 +588,29 @@ form.contact {
   .menu {
     margin: 0 1.04167%;
     display: block;
-      opacity: 1;
-      li {
-        background-color: #fff;
-        display: inline;
-        float: left;
-        position: relative;
-        a{ 
-            padding: 0.5rem;
-            border-bottom: 5px solid $green;
-            color: $green;
-            display: block;
-            &:hover {
-                border-bottom: 5px solid $yellow;
-                color: $yellow;
-            }
-        }
+    opacity: 1;
+    li {
+      background-color: #fff;
+      display: inline;
+      float: left;
+      position: relative;
+      a{ 
+          padding: 0.5rem;
+          border-bottom: 5px solid $green;
+          color: $green;
+          display: block;
+          &:hover {
+              border-bottom: 5px solid $yellow;
+              color: $yellow;
+          }
       }
-      li.parent {
-        /*
-        &:first-child{
-              margin-left: 0;
-          }*/
-      }
+    }
+    li.parent {
+      /*
+      &:first-child{
+            margin-left: 0;
+        }*/
+    }
   }
 
   /*li.parent:first-child {
@@ -624,28 +628,33 @@ form.contact {
       display: none;
     }
     ul.children {
-      display: none;
+      //display: none;
       li {
           
       }
     }
-  nav li:hover {
-      > ul.children {
+  .vastgoed nav#navigation li {
+      > ul.vastgoednav {
+        font-size: 0.75rem;
+        font-weight: normal;
         background-color: #fff;
-        display: block;
-        float: left;
+        width: 100%;
+        min-width: 418px;
         position: absolute;
         top: 42px;
+        left: -52px;
         z-index: 99999;
-        @include box-shadow("3px 3px 5px 1px rgba(0, 0, 0, 0.2)");
+        @include box-shadow("1px 1px 4px 1px rgba(0, 0, 0, 0.2)");
+        @include transition(0.3s,ease);
           li {
-            display: block;
-            width: 100%;
+            display: inline;
             a {
-              display: block;
               width: 100%;
             }    
           }
+      }
+      > ul.horecanav, ul.particulierennav {
+        display: none;
       }
   }
 
@@ -703,7 +712,7 @@ form.contact {
    ==================== */
 
     .main aside {
-        @include box-shadow("0 5px 10px #aaaaaa");
+        @include box-shadow("1px 1px 4px 1px rgba(0, 0, 0, 0.2)");
     }
 
 /* ============

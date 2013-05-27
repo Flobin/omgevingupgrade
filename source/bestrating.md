@@ -20,9 +20,10 @@ Graag zien wij uw aanvraag voor advies tegemoet, een correcte offerte geven wij 
 </section>
 </article>
 <aside>
-## Terzijde
-
-Hier zou nog een stuk tekst met extra informatie kunnen komen. Of misschien wat foto's. Zo wordt het stuk tekst aan de linkerkant ook niet te breed.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales urna non odio egestas tempor. Nunc vel vehicula ante.
+<a href="img/bestrating.jpg" class="magnific">
+<img src="img/bestrating.jpg" alt="bestrating" title="bestrating" />
+</a>
+<p class="onderschrift">
+bestrating
+</p>
 </aside>

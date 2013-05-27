@@ -20,9 +20,16 @@ Enthousiast zullen wij  dit voor U realiseren, zie onze andere pagina’s . Comp
 </section>
 </article>
 <aside>
-## Terzijde
-
-Hier zou nog een stuk tekst met extra informatie kunnen komen. Of misschien wat foto's. Zo wordt het stuk tekst aan de linkerkant ook niet te breed.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales urna non odio egestas tempor. Nunc vel vehicula ante.
+<a href="img/tuinaanleg_01.jpg" class="magnific">
+<img src="img/tuinaanleg_01.jpg" alt="tuinaanleg 01" title="tuinaanleg 01" />
+</a>
+<p class="onderschrift">
+tuinaanleg
+</p>
+<a href="img/tuinaanleg_02.jpg" class="magnific">
+<img src="img/tuinaanleg_02.jpg" alt="tuinaanleg 02" title="tuinaanleg 02" />
+</a>
+<p class="onderschrift">
+tuinaanleg
+</p>
 </aside>

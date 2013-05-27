@@ -27,9 +27,16 @@ Plaatsing doen we in eigen beheer.
 </section>
 </article>
 <aside>
-## Terzijde
-
-Hier zou nog een stuk tekst met extra informatie kunnen komen. Of misschien wat foto's. Zo wordt het stuk tekst aan de linkerkant ook niet te breed.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales urna non odio egestas tempor. Nunc vel vehicula ante.
+<a href="img/straatmeubilair_01.jpg" class="magnific">
+<img src="img/straatmeubilair_01.jpg" alt="straatmeubilair 01" title="straatmeubilair 01" />
+</a>
+<p class="onderschrift">
+straatmeubilair
+</p>
+<a href="img/straatmeubilair_02.jpg" class="magnific">
+<img src="img/straatmeubilair_02.jpg" alt="straatmeubilair 02" title="straatmeubilair 02" />
+</a>
+<p class="onderschrift">
+straatmeubilair
+</p>
 </aside>

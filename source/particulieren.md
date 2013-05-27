@@ -20,9 +20,10 @@ Wij het werk u het plezier is een levensvisie die wij u gunnen.
 </section>
 </article>
 <aside>
-## Terzijde
-
-Hier zou nog een stuk tekst met extra informatie kunnen komen. Of misschien wat foto's. Zo wordt het stuk tekst aan de linkerkant ook niet te breed.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales urna non odio egestas tempor. Nunc vel vehicula ante.
+<a href="img/particulieren_pagina.jpg" class="magnific">
+<img src="img/particulieren_pagina.jpg" alt="particulieren" title="particulieren" />
+</a>
+<p class="onderschrift">
+particulieren
+</p>
 </aside>

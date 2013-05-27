@@ -20,9 +20,16 @@ Zie foto’s meerdere projecten .
 </section>
 </article>
 <aside>
-## Terzijde
-
-Hier zou nog een stuk tekst met extra informatie kunnen komen. Of misschien wat foto's. Zo wordt het stuk tekst aan de linkerkant ook niet te breed.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales urna non odio egestas tempor. Nunc vel vehicula ante.
+<a href="img/tuinhout_01.jpg" class="magnific">
+<img src="img/tuinhout_01.jpg" alt="tuinhout 01" title="tuinhout 01" />
+</a>
+<p class="onderschrift">
+tuinhout
+</p>
+<a href="img/tuinhout_02.jpg" class="magnific">
+<img src="img/tuinhout_02.jpg" alt="tuinhout 02" title="tuinhout 02" />
+</a>
+<p class="onderschrift">
+tuinhout
+</p>
 </aside>

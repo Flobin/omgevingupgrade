@@ -2,16 +2,17 @@
         <footer class="footer">
             <!--<h3>footer</h3>-->
             <div class="colofon">
-                <h3 class="colofon-title">Contactinformatie</h3>
+                <h3 class="colofon-title">Postadres</h3>
                 <p>Jac. van Beierenweg 78<br />
                 2215 KZ Voorhout<br />
                 <a href="tel:+31653633798">+31 6 53633798</a><br />
-                <span class="email">ln.edargpugnivegmo@pooj</span><br />
-                <a href="contact.php">Neem contact met ons op!</a></p>
+                </p>
             </div>
             <div class="colofon">
-                <h3 class="colofon-title">&nbsp;</h3>
-                <p>KvK: 28103203<br />
+                <h3 class="colofon-title">Andere contactinformatie</h3>
+                <p><span class="email">ln.edargpugnivegmo@pooj</span><br />
+                <a href="contact.php">Neem contact met ons op!</a><br />
+                KvK: 28103203<br />
                 BTW: 098475307.B01</p>
             </div>
             <div class="colofon">
@@ -29,10 +30,16 @@
 <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/jquery-ui.min.js"></script>
 <script src="js/main.js"></script>
 <script src="js/responsiveslides.js"></script>
+<script src="js/magnific.min.js"></script>
 <script>
     $(function() {
         $("#frontpage-slider").responsiveSlides({
 
+        });
+    });
+    $(function() {
+        $('.magnific').magnificPopup({
+            type:'image'
         });
     });
 </script>

@@ -67,7 +67,7 @@ configure :build do
   # activate :cache_buster
 
   # Use relative URLs
-  # activate :relative_assets
+  activate :relative_assets
 
   # Use pretty URLs  (Directory Indexes)
   activate :directory_indexes
@@ -83,6 +83,6 @@ configure :build do
   # activate :minify_html
 end
 
-activate :livereload
+# activate :livereload
 
 activate :gzip

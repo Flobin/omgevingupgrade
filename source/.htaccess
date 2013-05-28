@@ -549,3 +549,19 @@ RewriteCond %{HTTP_COOKIE} resolution=([^;,]+),2
 RewriteCond %{REQUEST_URI} !@2x\.(jpe?g|gif|png)$
 RewriteCond %{DOCUMENT_ROOT}/$1@2x.$2 -f
 RewriteRule ([^.]+)\.(jpe?g|gif|png)$ $1@2x.$2
+
+
+//301 Redirect Entire Directory
+# RedirectMatch 301 vastgoed.html vastgoed/$1
+
+//301 Redirect Entire Directory
+# RedirectMatch 301 particulieren.html particulieren/$1
+
+//301 Redirect Entire Directory
+# RedirectMatch 301 horeca.html horeca/$1
+
+//301 Redirect Entire Directory
+# RedirectMatch 301 contact.html contact/$1
+
+//301 Redirect Entire Directory
+# RedirectMatch 301 overons.html overons/$1

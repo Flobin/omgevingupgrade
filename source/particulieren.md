@@ -1,5 +1,6 @@
 ---
-title: Particulieren - Omgeving Upgrade
+title: Particulieren
+slug: particulieren
 ---
 <article class="regular">
 <header>

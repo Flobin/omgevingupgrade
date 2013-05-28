@@ -1,5 +1,6 @@
 ---
-title: Onderhoud - Omgeving Upgrade
+title: Onderhoud
+slug: onderhoud
 ---
 <article class="regular">
 <header>
@@ -27,10 +28,3 @@ Parkeerterreinen:
 Omgevingupgrade denkt met u mee, een passende aanbieding voor u en een juiste schone “uitstraling”.
 </section>
 </article>
-<aside>
-## Terzijde
-
-Hier zou nog een stuk tekst met extra informatie kunnen komen. Of misschien wat foto's. Zo wordt het stuk tekst aan de linkerkant ook niet te breed.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales urna non odio egestas tempor. Nunc vel vehicula ante.
-</aside>

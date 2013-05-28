@@ -1,5 +1,6 @@
 ---
-title: Horeca - Omgeving Upgrade
+title: Horeca
+slug: horeca
 ---
 <article class="regular">
 <header>
@@ -17,10 +18,3 @@ Deze plantenbakken worden gemaakt in een frame, Uw gewenste uitstraling is Uw ke
 Uw locatie mooi houden is ook onze kracht, kijk naar de disciplines die wij U kunnen bieden.
 </section>
 </article>
-<aside>
-## Terzijde
-
-Hier zou nog een stuk tekst met extra informatie kunnen komen. Of misschien wat foto's. Zo wordt het stuk tekst aan de linkerkant ook niet te breed.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales urna non odio egestas tempor. Nunc vel vehicula ante.
-</aside>

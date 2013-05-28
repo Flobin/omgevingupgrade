@@ -1,5 +1,6 @@
 ---
-title: Parkeerterreinen - Omgeving Upgrade
+title: Parkeerterreinen
+slug: parkeerterreinen
 ---
 <article class="regular">
 <header>
@@ -13,10 +14,3 @@ Hier zijn verschillende vormen van onderhoud aanwezig, belangrijkste  is de juis
 Omgevingupgrade is uw partner om u locatie duidelijk en logisch te houden door verse belijning en of witte klinkers in uw bestrating aan te brengen met de juiste bebording. Zo is uw parkeerterrein efficiënt in gebruik van de ruimte en ordelijk.
 </section>
 </article>
-<aside>
-## Terzijde
-
-Hier zou nog een stuk tekst met extra informatie kunnen komen. Of misschien wat foto's. Zo wordt het stuk tekst aan de linkerkant ook niet te breed.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales urna non odio egestas tempor. Nunc vel vehicula ante.
-</aside>

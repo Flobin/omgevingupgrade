@@ -1,5 +1,6 @@
 ---
-title: Tuinhout - Omgeving Upgrade
+title: Tuinhout
+slug: tuinhout
 ---
 <article class="regular">
 <header>

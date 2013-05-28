@@ -1,5 +1,6 @@
 ---
-title: Over ons - Omgeving Upgrade
+title: Over ons
+slug: overons
 ---
 <article class="regular">
 <header>
@@ -19,10 +20,3 @@ Heeft u een opdracht van 1 uur, of een werk van meerdere weken, wij staan graag 
 Eerlijke offertes, wij doen onze best om uw vestigingskosten binnen uw budget te houden.
 </section>
 </article>
-<aside>
-## Terzijde
-
-Hier zou nog een stuk tekst met extra informatie kunnen komen. Of misschien wat foto's. Zo wordt het stuk tekst aan de linkerkant ook niet te breed.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales urna non odio egestas tempor. Nunc vel vehicula ante.
-</aside>

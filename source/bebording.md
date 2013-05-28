@@ -1,5 +1,6 @@
 ---
-title: Bebording - Omgeving Upgrade
+title: Bebording
+slug: bebording
 ---
 <article class="regular">
 <header>
@@ -12,8 +13,8 @@ Graag geven wij u een advies voor uw locatie, en denken wij met u mee.
 </section>
 </article>
 <aside>
-<a href="img/bebording.jpg" class="magnific">
-<img src="img/bebording.jpg" alt="bebording" title="bebording" />
+<a href="/img/bebording.jpg" class="magnific">
+<img src="/img/bebording.jpg" alt="bebording" title="bebording" />
 </a>
 <p class="onderschrift">
 bebording

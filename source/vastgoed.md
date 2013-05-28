@@ -1,5 +1,6 @@
 ---
-title: Vastgoed - Omgeving Upgrade
+title: Vastgoed
+slug: vastgoed
 ---
 <article class="regular">
 <header>

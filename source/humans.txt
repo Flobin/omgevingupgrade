@@ -4,12 +4,19 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Robin Berghuijs -- I made the whole thing -- @flobin
 
 # THANKS
 
     <name>
+    #reddit-webdesign on irc.freenode.net
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Middlemanapp (middlemanapp.com)
+	SASS
+	HTML5boilerplate
+
+	Sublime Text 2

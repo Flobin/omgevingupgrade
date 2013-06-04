@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
 				"shad",
 				"shadow-opacity"
 			],
@@ -55,7 +67,7 @@
 			"file": "Gemfile",
 			"settings":
 			{
-				"buffer_size": 235,
+				"buffer_size": 259,
 				"line_ending": "Unix"
 			}
 		},
@@ -63,12 +75,12 @@
 			"file": "config.rb",
 			"settings":
 			{
-				"buffer_size": 1655,
+				"buffer_size": 1659,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "readme",
+			"file": "readme.md",
 			"settings":
 			{
 				"buffer_size": 92,
@@ -79,23 +91,23 @@
 			"file": "source/stylesheets/all.scss",
 			"settings":
 			{
-				"buffer_size": 20611,
-				"line_ending": "Unix"
+				"buffer_size": 21390,
+				"line_ending": "Windows"
 			}
 		},
 		{
 			"file": "source/layouts/layout.erb",
 			"settings":
 			{
-				"buffer_size": 727,
-				"line_ending": "Unix"
+				"buffer_size": 1004,
+				"line_ending": "Windows"
 			}
 		},
 		{
 			"file": "source/_footer.erb",
 			"settings":
 			{
-				"buffer_size": 1868,
+				"buffer_size": 2161,
 				"line_ending": "Windows"
 			}
 		},
@@ -103,7 +115,15 @@
 			"file": "source/_header.erb",
 			"settings":
 			{
-				"buffer_size": 2350,
+				"buffer_size": 2797,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/contact.html.erb",
+			"settings":
+			{
+				"buffer_size": 1720,
 				"line_ending": "Windows"
 			}
 		},
@@ -111,24 +131,48 @@
 			"file": "source/index.html.erb",
 			"settings":
 			{
-				"buffer_size": 2178,
+				"buffer_size": 2162,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/.htaccess",
+			"settings":
+			{
+				"buffer_size": 21385,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/tuinaanleg-en-inrichting.md",
+			"settings":
+			{
+				"buffer_size": 1333,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "build/contact/process.php",
+			"settings":
+			{
+				"buffer_size": 1186,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "build/contact/meta.php",
+			"settings":
+			{
+				"buffer_size": 1323,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "build/contact/index.php",
+			"settings":
+			{
+				"buffer_size": 7417,
 				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "source/vastgoed.md",
-			"settings":
-			{
-				"buffer_size": 2006,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "<article class=\"regular\">\n<header>\n# Horeca\n</header>\n<section>\nAls bedrijf welke groen verzorgt maken wij plantenbakken, ook bieden wij andere dienstverlening aan.\n\nEen terras is de eyecatcher van elke horeca zaak, daar horen plantenbakken of borders bij. Helaas zijn plantenbakken vaak kort mooi! Uw bedrijfsactiviteiten liggen niet bij het verzorgen van planten bakken, water geven te laat etc. Daarom zijn wij een plantenbak aan het creëren welke zich zelf onderhoud. Werkelijk zichzelf bedruipt, U de weelde van mooie plantenbak en minimaal onderhoud.\n\nZeer interessant is een plantenbak die akoestiek dempt, Uw gasten normale gesprekken en de buren geen overlast. Deze geven tevens Uw bedrijf een groene en bloeiende uitstraling.\n\nDeze plantenbakken worden gemaakt in een frame, Uw gewenste uitstraling is Uw keus, elke mogelijkheid is bespreekbaar.\n\nUw locatie mooi houden is ook onze kracht, kijk naar de disciplines die wij U kunnen bieden.\n</section>\n</article>\n<aside>\n## Terzijde\nHier zou nog een stuk tekst met extra informatie kunnen komen. Of misschien wat foto's. Zo wordt het stuk tekst aan de linkerkant ook niet te breed.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales urna non odio egestas tempor. Nunc vel vehicula ante.\n</aside>",
-			"settings":
-			{
-				"buffer_size": 1277,
-				"line_ending": "Windows"
 			}
 		}
 	],
@@ -184,6 +228,32 @@
 	},
 	"file_history":
 	[
+		"/C/Users/s072264/Dropbox/20e VIA-bestuur/3. Promotie/newsflashes/2013-06/.htaccess",
+		"/E/Desktop/demo.php",
+		"/C/Users/s072264/Dropbox/omgevingupgrade/source/tuinaanleg-en-inrichting.md",
+		"/C/Users/s072264/Dropbox/omgevingupgrade/source/straatmeubilair.md",
+		"/C/Users/s072264/Dropbox/omgevingupgrade/source/tuinhout.md",
+		"/C/Users/s072264/Dropbox/omgevingupgrade/source/vastgoed.md",
+		"/C/Users/s072264/Dropbox/omgevingupgrade/source/particulieren.md",
+		"/C/Users/s072264/Dropbox/omgevingupgrade/source/parkeerterreinen.md",
+		"/C/Users/s072264/Dropbox/omgevingupgrade/source/overons.md",
+		"/C/Users/s072264/Dropbox/omgevingupgrade/source/onderhoud.md",
+		"/C/Users/s072264/Dropbox/omgevingupgrade/source/horeca.md",
+		"/C/Users/s072264/Dropbox/omgevingupgrade/source/evenementen.md",
+		"/C/Users/s072264/Dropbox/omgevingupgrade/source/bestrating.md",
+		"/C/Users/s072264/Dropbox/omgevingupgrade/source/bebording.md",
+		"/C/Users/s072264/Dropbox/omgevingupgrade/source/stylesheets/_typeplate.scss",
+		"/C/Users/s072264/Dropbox/omgevingupgrade/source/humans.txt",
+		"/C/Users/s072264/Dropbox/omgevingupgrade/source/js/demo.php",
+		"/C/Users/s072264/Dropbox/omgevingupgrade/build/contact/index.html",
+		"/C/Users/s072264/Dropbox/omgevingupgrade/source/stylesheets/_magnific.scss",
+		"/C/Users/s072264/Dropbox/omgevingupgrade/source/js/magnific.min.js",
+		"/C/Users/s072264/Dropbox/omgevingupgrade/source/stylesheets/magnific.scss",
+		"/C/Users/s072264/Dropbox/omgevingupgrade/source/js/jquery-1.9.1.min.js",
+		"/C/Users/s072264/Dropbox/omgevingupgrade/source/horeca.html.erb",
+		"/C/Users/s072264/Dropbox/omgevingupgrade/build/index.html",
+		"/C/Users/s072264/Dropbox/omgevingupgrade/source/index.html.erb",
+		"/C/Users/s072264/Dropbox/omgevingupgrade/build/stylesheets/all.css",
 		"/C/Users/s072264/Dropbox/omgevingupgrade/source/vastgoed.html.erb",
 		"/E/Desktop/index.php",
 		"/C/Users/s072264/Dropbox/20e via-bestuur/3. Promotie/newsflashes/2013-05/.htaccess",
@@ -285,37 +355,11 @@
 		"/C/Program Files/EasyPHP-5.3.9/www/en/uitnodiging.php",
 		"/C/Program Files/EasyPHP-5.3.9/www/en/fotografie.php",
 		"/C/Program Files/EasyPHP-5.3.9/www/en/madrid.php",
-		"/C/Program Files/EasyPHP-5.3.9/www/en/event.php",
-		"/C/Program Files/EasyPHP-5.3.9/www/index.php",
-		"/C/Program Files/EasyPHP-5.3.9/www/css/style.css",
-		"/C/Program Files/EasyPHP-5.3.9/www/fonts/museosans/stylesheet.css",
-		"/C/Users/s072264/AppData/Local/Temp/Rar$DI99.488/style.css",
-		"/C/Users/s072264/AppData/Local/Temp/Rar$DI66.600/stylesheet.css",
-		"/C/Users/s072264/AppData/Local/Temp/Rar$DI89.264/stylesheet.css",
-		"/C/Program Files/EasyPHP-5.3.9/www/event.php",
-		"/C/Program Files/EasyPHP-5.3.9/www/fotografie.php",
-		"/C/Program Files/EasyPHP-5.3.9/www/madrid.php",
-		"/C/Program Files/EasyPHP-5.3.9/www/uitnodiging.php",
-		"/C/Program Files/EasyPHP-5.3.9/www/processForm.php",
-		"/C/Program Files/EasyPHP-5.3.9/www/css/jquery.fancybox.css",
-		"/C/Users/s072264/AppData/Local/Temp/Rar$DI01.712/stylesheet.css",
-		"/C/Program Files/EasyPHP-5.3.9/www/js/jquery.flexslider-min.js",
-		"/C/Program Files/EasyPHP-5.3.9/www/less/grid.less",
-		"/C/Program Files/EasyPHP-5.3.9/www/js/bootstrap-carousel.js",
-		"/C/Program Files/EasyPHP-5.3.9/www/css/bootstrap-reset.css",
-		"/C/Program Files/EasyPHP-5.3.9/www/contact.html",
-		"/C/Program Files/EasyPHP-5.3.9/www/fonts/texgyre/stylesheet.css",
-		"/C/Program Files/EasyPHP-5.3.9/www/js/contactscript.js",
-		"/C/Program Files/EasyPHP-5.3.9/www/contact.php",
-		"/C/Program Files/EasyPHP-5.3.9/www/meta.php",
-		"/C/Program Files/EasyPHP-5.3.9/www/process.php",
-		"/C/Program Files/EasyPHP-5.3.9/www/css/bootstrap-responsive.css",
-		"/C/Program Files/EasyPHP-5.3.9/www/js/jquery.anchor.js",
-		"/C/Program Files/EasyPHP-5.3.9/www/js/jquery.stellar.js"
+		"/C/Program Files/EasyPHP-5.3.9/www/en/event.php"
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 36.0
 	},
 	"find_in_files":
 	{
@@ -329,6 +373,50 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"46",
+			"42",
+			"font-size",
+			"straatmeubilair",
+			"bebording",
+			"index",
+			"children",
+			"vastgoed",
+			" ,",
+			"strat",
+			"vastgoed",
+			"vastgoed_pagina",
+			"U",
+			"&amp;",
+			"&amp",
+			"img",
+			"U",
+			" .",
+			"  .",
+			" ,",
+			"/omgevingupgrade/",
+			".html\" c",
+			"', '",
+			".html'",
+			"U",
+			" ,",
+			"children",
+			"shadow",
+			" ,",
+			" .",
+			"U",
+			" .",
+			" ,",
+			"  ",
+			" .",
+			" ,",
+			"U",
+			" ,",
+			"  ",
+			"U",
+			"  ",
+			" ,",
+			",",
+			"U",
 			"footer",
 			"yellow",
 			"22re",
@@ -412,26 +500,7 @@
 			"markerline",
 			"marker",
 			"markerline",
-			"marker",
-			"margin",
-			"uitleg",
-			".border-radius",
-			"text-align",
-			"description",
-			".box",
-			"intro",
-			"linen",
-			"box-shadow",
-			"uitleg",
-			"html",
-			"cent",
-			"h2",
-			"bluehover",
-			"transition",
-			"markerline",
-			"margin",
-			"container",
-			"form"
+			"marker"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -449,7 +518,7 @@
 	"groups":
 	[
 		{
-			"selected": 9,
+			"selected": 4,
 			"sheets":
 			[
 				{
@@ -457,15 +526,15 @@
 					"file": "Gemfile",
 					"settings":
 					{
-						"buffer_size": 235,
+						"buffer_size": 259,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								235,
-								213
+								259,
+								259
 							]
 						],
 						"settings":
@@ -483,15 +552,15 @@
 					"file": "config.rb",
 					"settings":
 					{
-						"buffer_size": 1655,
+						"buffer_size": 1659,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1014,
-								1014
+								1645,
+								1645
 							]
 						],
 						"settings":
@@ -508,7 +577,7 @@
 				},
 				{
 					"buffer": 2,
-					"file": "readme",
+					"file": "readme.md",
 					"settings":
 					{
 						"buffer_size": 92,
@@ -537,15 +606,15 @@
 					"file": "source/stylesheets/all.scss",
 					"settings":
 					{
-						"buffer_size": 20611,
+						"buffer_size": 21390,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2270,
-								2270
+								10610,
+								10610
 							]
 						],
 						"settings":
@@ -555,7 +624,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 4881.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -565,15 +634,15 @@
 					"file": "source/layouts/layout.erb",
 					"settings":
 					{
-						"buffer_size": 727,
+						"buffer_size": 1004,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								601,
-								601
+								794,
+								823
 							]
 						],
 						"settings":
@@ -593,15 +662,15 @@
 					"file": "source/_footer.erb",
 					"settings":
 					{
-						"buffer_size": 1868,
+						"buffer_size": 2161,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1525,
-								1525
+								942,
+								942
 							]
 						],
 						"settings":
@@ -611,7 +680,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 60.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -621,20 +690,21 @@
 					"file": "source/_header.erb",
 					"settings":
 					{
-						"buffer_size": 2350,
+						"buffer_size": 2797,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								154,
-								154
+								556,
+								600
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -644,18 +714,18 @@
 				},
 				{
 					"buffer": 7,
-					"file": "source/index.html.erb",
+					"file": "source/contact.html.erb",
 					"settings":
 					{
-						"buffer_size": 2178,
+						"buffer_size": 1720,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								300,
-								300
+								1411,
+								1411
 							]
 						],
 						"settings":
@@ -670,25 +740,23 @@
 				},
 				{
 					"buffer": 8,
-					"file": "source/vastgoed.md",
+					"file": "source/index.html.erb",
 					"settings":
 					{
-						"buffer_size": 2006,
+						"buffer_size": 2162,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1867,
-								1867
+								139,
+								139
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -698,23 +766,133 @@
 				},
 				{
 					"buffer": 9,
+					"file": "source/.htaccess",
 					"settings":
 					{
-						"buffer_size": 1277,
+						"buffer_size": 21385,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1268,
-								1268
+								21330,
+								21330
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7521.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "source/tuinaanleg-en-inrichting.md",
+					"settings":
+					{
+						"buffer_size": 1333,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								603,
+								603
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "build/contact/process.php",
+					"settings":
+					{
+						"buffer_size": 1186,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1043,
+								1043
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "build/contact/meta.php",
+					"settings":
+					{
+						"buffer_size": 1323,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								816,
+								816
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "build/contact/index.php",
+					"settings":
+					{
+						"buffer_size": 7417,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								539,
+								539
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,

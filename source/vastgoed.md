@@ -31,8 +31,8 @@ Haal de mogelijkheden uit uw locatie en vergroot het welzijnsgevoel.
 </section>
 </article>
 <aside>
-<a href="img/vastgoed_pagina.jpg" class="magnific">
-<img src="img/vastgoed_pagina.jpg" alt="vastgoed" title="vastgoed" />
+<a href="/img/vastgoed_pagina.jpg" class="magnific">
+<img src="/img/vastgoed_pagina.jpg" alt="vastgoed" title="vastgoed" />
 </a>
 <p class="onderschrift">
 vastgoed

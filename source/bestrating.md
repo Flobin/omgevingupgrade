@@ -21,8 +21,8 @@ Graag zien wij uw aanvraag voor advies tegemoet, een correcte offerte geven wij 
 </section>
 </article>
 <aside>
-<a href="img/bestrating.jpg" class="magnific">
-<img src="img/bestrating.jpg" alt="bestrating" title="bestrating" />
+<a href="/img/bestrating.jpg" class="magnific">
+<img src="/img/bestrating.jpg" alt="bestrating" title="bestrating" />
 </a>
 <p class="onderschrift">
 bestrating

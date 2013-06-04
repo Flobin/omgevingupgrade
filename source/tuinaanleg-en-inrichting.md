@@ -21,14 +21,14 @@ Enthousiast zullen wij dit voor u realiseren, zie onze andere pagina’s. Comple
 </section>
 </article>
 <aside>
-<a href="img/tuinaanleg_01.jpg" class="magnific">
-<img src="img/tuinaanleg_01.jpg" alt="tuinaanleg 01" title="tuinaanleg 01" />
+<a href="/img/tuinaanleg_01.jpg" class="magnific">
+<img src="/img/tuinaanleg_01.jpg" alt="tuinaanleg 01" title="tuinaanleg 01" />
 </a>
 <p class="onderschrift">
 tuinaanleg
 </p>
-<a href="img/tuinaanleg_02.jpg" class="magnific">
-<img src="img/tuinaanleg_02.jpg" alt="tuinaanleg 02" title="tuinaanleg 02" />
+<a href="/img/tuinaanleg_02.jpg" class="magnific">
+<img src="/img/tuinaanleg_02.jpg" alt="tuinaanleg 02" title="tuinaanleg 02" />
 </a>
 <p class="onderschrift">
 tuinaanleg

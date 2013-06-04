@@ -85,4 +85,4 @@ end
 
 # activate :livereload
 
-activate :gzip
+# activate :gzip

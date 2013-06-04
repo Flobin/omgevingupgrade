@@ -27,8 +27,8 @@ Zie foto’s meerdere projecten .
 <p class="onderschrift">
 tuinhout
 </p>
-<a href="img/tuinhout_02.jpg" class="magnific">
-<img src="img/tuinhout_02.jpg" alt="tuinhout 02" title="tuinhout 02" />
+<a href="/img/tuinhout_02.jpg" class="magnific">
+<img src="/img/tuinhout_02.jpg" alt="tuinhout 02" title="tuinhout 02" />
 </a>
 <p class="onderschrift">
 tuinhout

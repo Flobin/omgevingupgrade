@@ -21,8 +21,8 @@ Wij het werk u het plezier is een levensvisie die wij u gunnen.
 </section>
 </article>
 <aside>
-<a href="img/particulieren_pagina.jpg" class="magnific">
-<img src="img/particulieren_pagina.jpg" alt="particulieren" title="particulieren" />
+<a href="/img/particulieren_pagina.jpg" class="magnific">
+<img src="/img/particulieren_pagina.jpg" alt="particulieren" title="particulieren" />
 </a>
 <p class="onderschrift">
 particulieren

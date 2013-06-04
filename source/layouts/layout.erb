@@ -10,6 +10,7 @@
     <%= stylesheet_link_tag "all" %>
     <script src="js/modernizr-2.6.1-respond-1.1.0.min.js"></script>
     <script>document.cookie='resolution='+Math.max(screen.width,screen.height)+("devicePixelRatio" in window ? ","+devicePixelRatio : ",1")+'; path=/';</script>
+    <% if current_page.data.slug == 'contact' %><?php include 'meta.php'; ?><% end %>
   </head>
   
   <body class="<%= page_classes %>">
